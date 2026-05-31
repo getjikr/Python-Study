@@ -9,6 +9,7 @@ Python 공부 저장소
 - Project-Euler/: 프로젝트 오일러 알고리즘 풀이 폴더
   - problem_001.py
   - problem_002.py
+  - problem_003.py
   - problem_004.py
 
 ## 프로젝트 오일러 풀이 현황
@@ -17,6 +18,7 @@ Python 공부 저장소
 | :---: | :--- | :---: |
 | 001 | Multiples of 3 or 5 | [코드](./Project-Euler/problem_001.py) |
 | 002 | Even Fibonacci Numbers | [코드](./Project-Euler/problem_002.py) |
+| 003 | Largest Prime Factor | [코드](./Project-Euler/problem_003.py) |
 | 004 | Largest Palindrome Product | [코드](./Project-Euler/problem_004.py) |
 
 ## 관련 링크
