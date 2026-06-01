@@ -11,6 +11,7 @@ Python 공부 저장소
   - problem_002.py
   - problem_003.py
   - problem_004.py
+  - problem_005.py
 
 ## 프로젝트 오일러 풀이 현황
 
@@ -20,6 +21,7 @@ Python 공부 저장소
 | 002 | Even Fibonacci Numbers | [코드](./Project-Euler/problem_002.py) |
 | 003 | Largest Prime Factor | [코드](./Project-Euler/problem_003.py) |
 | 004 | Largest Palindrome Product | [코드](./Project-Euler/problem_004.py) |
+| 005 | Smallest Multiple | [코드](./Project-Euler/problem_005.py) |
 
 ## 관련 링크
 - [Project Euler 공식 홈페이지](https://projecteuler.net/)
